@@ -1,0 +1,27 @@
+.personal{
+    display: flex;
+    margin-bottom: 20px;
+    /* padding:  19px; */
+}
+.inner-card{
+    width: 80%;
+    padding: 20px 30px 30px 20px ;
+    margin: 2rem;
+    border-radius: 10px;
+    /* up in the air */
+    box-shadow: 0 0 10px  rgba(0,0,0,0.2);
+
+ }
+.outer-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    margin:3rem ;
+}
+.logo{
+    width: 30px;
+    height: 30px;
+
+    /* margin-right: 20px;     */
+}
